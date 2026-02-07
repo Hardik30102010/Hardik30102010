@@ -5,8 +5,6 @@ ___
 * `JAVASCRIPT` 
 ***
 ## I also know
-`HTML` (HYPER YEXT MARKUP LANGUAGE) ,`CSS` (CASCADING STYLE SHEETS) and `MARKDOWN` which I am writing now only .
-
-***
-## i also know 
+`HTML` (HYPER YEXT MARKUP LANGUAGE) ,`CSS` (CASCADING STYLE SHEETS) and `MARKDOWN` which I am writing right now.
+## Along with 
 `PHP` and `SQL`.
