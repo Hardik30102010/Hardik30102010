@@ -1,4 +1,4 @@
-# HA
+# ~HA
 ___
 ### The programming languages that I know are-
 * `PYTHON` 
@@ -6,7 +6,7 @@ ___
 ***
 ## I also know
 `HTML` (HYPER TEXT  MARKUP LANGUAGE) ,`CSS` (CASCADING STYLE SHEETS) and `MARKDOWN` which I am writing right now.
-## Along with 
+>Along with 
 `PHP` and `SQL`.
 *** 
 ***
