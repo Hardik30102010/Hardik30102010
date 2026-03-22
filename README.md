@@ -4,10 +4,12 @@ ___
 * `PYTHON` 
 * `JAVASCRIPT` 
 ***
+
 ## I also know
 `HTML` (HYPER TEXT  MARKUP LANGUAGE) ,`CSS` (CASCADING STYLE SHEETS) and `MARKDOWN` which I am writing right now.
 >Along with\
 `PHP` and `SQL`.
 *** 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik30102010)](https://github.com/Hardik30102010/github-readme-stats)
+***
 ![snake animation](https://raw.githubusercontent.com)
