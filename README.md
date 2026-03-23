@@ -15,12 +15,4 @@ ___
 ![snake gif](https://github.com/Hardik30102010/Hardik30102010/blob/output/github-snake.svg)
     
  ***
- <picture>
-  <!-- Shows when the user is in Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com">
-  <!-- Shows when the user is in Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
-  <!-- Fallback for browsers that don't support <picture> -->
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com">
-</picture>
-
+ 
