@@ -12,6 +12,6 @@ ___
 *** 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik30102010)](https://github.com/Hardik30102010/github-readme-stats)
 ***
-![snake gif](https://github.com/YOUR_USERNAME/Hardik30102010/blob/output/github-snake.svg)
+![snake gif](https://github.com/Hardik30102010/Hardik30102010/blob/output/github-snake.svg)
     
   
