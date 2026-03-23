@@ -12,4 +12,8 @@ ___
 *** 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik30102010)](https://github.com/Hardik30102010/github-readme-stats)
 ***
-![snake animation](https://raw.githubusercontent.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hardik30102010/Hardik30102010/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hardik30102010/Hardik30102010/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hardik30102010/Hardik30102010/output/github-contribution-grid-snake.svg">
+</picture>
