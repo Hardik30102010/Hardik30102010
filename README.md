@@ -10,7 +10,7 @@ ___
 >Along with\
 `PHP` and `SQL`.
 *** 
-[![top languages](https://github-readme-stats.vercel.app/api?username=Hardik30102010)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api?username=Hardik30102010)](https://github.com/Hardik30102010/github-readme-stats)
 ***
 
  <picture>
