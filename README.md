@@ -10,7 +10,7 @@ ___
 >Along with\
 `PHP` and `SQL`.
 *** 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardik30102010&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top languages](https://github-readme-stats.vercel.app/api?username=Hardik30102010&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ***
 
  <picture>
